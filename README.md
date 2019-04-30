@@ -1,5 +1,3 @@
-[![Documentation Status](https://readthedocs.org/projects/awesome-security/badge/?version=latest)](https://awesome-security.readthedocs.io/en/latest/?badge=latest)
-
 # Awesome Security
 
 A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
