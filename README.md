@@ -1,5 +1,7 @@
 # Security Awesome
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
 
 - [Awesome Security](#awesome-security)
