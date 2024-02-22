@@ -1,10 +1,9 @@
-# Security Awesome
+# AwesomeSecurity
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Explore a curated collection of fantastic software, libraries, documents, books, and resources dedicated to security. From network and endpoint protection to threat intelligence and web security, find a comprehensive list of tools and information to enhance your security knowledge and practices.
 
-A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
-
-- [Awesome Security](#awesome-security)
+## Table of Contents
+- [AwesomeSecurity](#AwesomeSecurity)
   - [Network](#network)
     - [Scanning / Pentesting](#scanning--pentesting)
     - [Monitoring / Logging](#monitoring--logging)
@@ -41,7 +40,6 @@ A collection of awesome software, libraries, documents, books, resources and coo
   - [Other Awesome Lists](#other-awesome-lists)
     - [Other Security Awesome Lists](#other-security-awesome-lists)
     - [Other Common Awesome Lists](#other-common-awesome-lists)
-  - [Contributing](#contributing)
 
 ------
 
@@ -311,3 +309,11 @@ A collection of awesome software, libraries, documents, books, resources and coo
 - [Awesome Industrial Control System Security](https://github.com/mpesen/awesome-industrial-control-system-security) - A curated list of resources related to Industrial Control System (ICS) security.
 - [Awesome YARA](https://github.com/InQuest/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
 - [Awesome Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources.
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+## Contribution
+
+Feel free to contribute by opening issues or pull requests. Your feedback and improvements are highly appreciated!
