@@ -38,6 +38,10 @@ Explore a curated collection of fantastic software, libraries, documents, books,
   - [Operating Systems](#operating-systems)
     - [Online resources](#online-resources)
   - [Kubernetes Security](#kubernetes-security)
+  - [Cloud Security](#cloud-security)
+  - [Vulnerability Management](#vulnerability-management)
+  - [Identity / Access Management](#identity-access-management)
+  - [Serverless Security](#serverless-security)
   - [Other Awesome Lists](#other-awesome-lists)
     - [Other Security Awesome Lists](#other-security-awesome-lists)
 
@@ -297,6 +301,37 @@ Explore a curated collection of fantastic software, libraries, documents, books,
 - [Kubesec](https://kubesec.io/) – A tool that scans Kubernetes resource manifests for security issues, providing risk scores and recommendations to improve security posture before deployment.
 - [Trivy](https://github.com/aquasecurity/trivy) – A simple and comprehensive vulnerability scanner for container images, file systems, and Kubernetes clusters, capable of detecting vulnerabilities and misconfigurations.
 - [Open Policy Agent (OPA)](https://www.openpolicyagent.org/) – A general-purpose policy engine that allows you to enforce fine-grained, context-aware policies in Kubernetes and other systems, enabling dynamic authorization and compliance checks.
+
+## Cloud Security
+
+- [Cloud Security Alliance](https://cloudsecurityalliance.org/) – Provides best practices and security guidance for cloud computing environments.
+- [Prowler](https://github.com/toniblyx/prowler) – AWS security auditing tool that performs automated checks based on AWS best practices.
+- [ScoutSuite](https://github.com/nccgroup/ScoutSuite) – Multi-cloud security auditing tool that provides comprehensive security posture assessments.
+- [GCP Security Command Center](https://cloud.google.com/security-command-center) – Google Cloud's security and risk management platform for threat detection and compliance.
+- [Azure Security Center](https://azure.microsoft.com/en-us/services/security-center/) – Microsoft Azure's unified security management system providing advanced threat protection.
+- [Cloud Custodian](https://cloudcustodian.io/) – Cloud security policy automation tool to manage and enforce governance across cloud environments.
+
+## Vulnerability Management
+
+- [OpenVAS](http://www.openvas.org/) – An open source vulnerability scanner.
+- [Nessus](https://www.tenable.com/products/nessus) – A commercial but widely used vulnerability scanner.
+- [Qualys Community Edition](https://www.qualys.com/community-edition/) – The free version of Qualys vulnerability scanner.
+- [Rapid7 Nexpose](https://www.rapid7.com/products/nexpose/) – A vulnerability and risk management scanner.
+- [Vuls](https://github.com/future-architect/vuls) – A vulnerability scanner for Linux and containers.
+
+## Identity / Access Management
+
+- [HashiCorp Boundary](https://www.boundaryproject.io/) – Infrastructure access management.
+- [Keycloak](https://www.keycloak.org/) – Open source Identity and Access Management.
+- [OAuth 2.0](https://oauth.net/2/) – Authorization standard.
+- [OpenID Connect](https://openid.net/connect/) – Identity layer on top of OAuth 2.0.
+
+## Serverless Security
+
+- [OWASP Serverless Top 10](https://owasp.org/www-project-serverless-top-10/) – List of threats in serverless applications.
+- [Protego](https://protego.io/) – Security for AWS Lambda.
+- [Snyk Serverless](https://snyk.io/solutions/serverless-security/) – Snyk for serverless.
+- [PureSec](https://www.puresec.io/) – Security for serverless.
 
 ## Other Awesome Lists
 
