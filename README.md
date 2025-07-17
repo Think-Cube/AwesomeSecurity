@@ -37,9 +37,9 @@ Explore a curated collection of fantastic software, libraries, documents, books,
   - [DevOps](#devops)
   - [Operating Systems](#operating-systems)
     - [Online resources](#online-resources)
+  - [Kubernetes Security](#kubernetes-security)
   - [Other Awesome Lists](#other-awesome-lists)
     - [Other Security Awesome Lists](#other-security-awesome-lists)
-    - [Other Common Awesome Lists](#other-common-awesome-lists)
 
 ------
 
@@ -289,6 +289,15 @@ Explore a curated collection of fantastic software, libraries, documents, books,
 - [passpie](https://github.com/marcwebbie/passpie) - Multiplatform command-line password manager
 - [Vault](https://www.vaultproject.io/) - An encrypted datastore secure enough to hold environment and application secrets.
 
+## Kubernetes Security
+
+- [Kube-bench](https://github.com/aquasecurity/kube-bench) – A tool that checks whether Kubernetes is deployed according to the security benchmarks defined by the Center for Internet Security (CIS). It performs automated audits of your cluster's configuration against best practices.
+- [Kube-hunter](https://github.com/aquasecurity/kube-hunter) – A security scanner designed to discover vulnerabilities and security issues in Kubernetes clusters. It can run in passive or active mode to hunt for weaknesses.
+- [Kubernetes CIS Benchmark](https://www.cisecurity.org/benchmark/kubernetes/) – The official CIS benchmark document providing detailed security configuration guidelines and best practices for Kubernetes clusters.
+- [Kubesec](https://kubesec.io/) – A tool that scans Kubernetes resource manifests for security issues, providing risk scores and recommendations to improve security posture before deployment.
+- [Trivy](https://github.com/aquasecurity/trivy) – A simple and comprehensive vulnerability scanner for container images, file systems, and Kubernetes clusters, capable of detecting vulnerabilities and misconfigurations.
+- [Open Policy Agent (OPA)](https://www.openpolicyagent.org/) – A general-purpose policy engine that allows you to enforce fine-grained, context-aware policies in Kubernetes and other systems, enabling dynamic authorization and compliance checks.
+
 ## Other Awesome Lists
 
 ### Other Security Awesome Lists
@@ -309,6 +318,7 @@ Explore a curated collection of fantastic software, libraries, documents, books,
 - [Awesome Industrial Control System Security](https://github.com/mpesen/awesome-industrial-control-system-security) - A curated list of resources related to Industrial Control System (ICS) security.
 - [Awesome YARA](https://github.com/InQuest/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
 - [Awesome Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources.
+
 
 ## License
 
