@@ -318,6 +318,7 @@ Explore a curated collection of fantastic software, libraries, documents, books,
 - [Qualys Community Edition](https://www.qualys.com/community-edition/) – The free version of Qualys vulnerability scanner.
 - [Rapid7 Nexpose](https://www.rapid7.com/products/nexpose/) – A vulnerability and risk management scanner.
 - [Vuls](https://github.com/future-architect/vuls) – A vulnerability scanner for Linux and containers.
+- [RowShield](https://rowshield.dev) – Probes a deployed Supabase app for reachable and exposed data, then monitors connected projects for RLS and schema drift.
 
 ## Identity / Access Management
 
